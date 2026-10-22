@@ -1,4 +1,4 @@
-# Hiibel v. Sixth Judicial District Court
+# Hiibel
 
 [542 U.S. 177](https://supreme.justia.com/cases/federal/us/542/177/) (2004)
 
