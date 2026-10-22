@@ -8,4 +8,4 @@ site:
       path: studies-de-jure
       default: true
       content:
-        directory: ./studies-de-jure
+        directory: null
